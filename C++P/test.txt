@@ -1,0 +1,27 @@
+---------Admin-List---------
+Name: admin
+Age: 21
+ID: admin
+
+Name: papalan
+Age: 21
+ID: admin2
+
+---------Stu-List---------
+Name: joe
+Age: 19
+ID: s20234751
+
+Name: ddd
+Age: 19
+ID: s20231714
+
+---------Tec-List---------
+Name: meta
+Age: 31
+ID: t20157697
+
+Name: ana
+Age: 25
+ID: t1997
+
